@@ -1,3 +1,3 @@
 # CProject
 
-Trialing remote repos
+Trialing remote repositories
